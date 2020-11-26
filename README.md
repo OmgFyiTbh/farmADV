@@ -12,6 +12,14 @@ The code at present is also writen to have a modem on the right of the turtle an
 
 The inventory api "inv" has a number of functions that allows inventory magement and item selcetion on the CC turtles. please use this in your programs.
 
+This Version has:
+-Auto harvest
+-Auto Seed
+-Auto Fueling
+-Inventory checking
+-Continue with farming after a return to base
+-Will print strings over rednet to a receiving computer (you need to write the receiving program)
+
 SETTING UP THE PROGRAM, TURTLE AND FARM:
 
 FARM:
@@ -35,8 +43,8 @@ TURTLE:
   
 Known issues:
 - No way to exit the program once started
-- no menu to allow farm size to be changed (requires changing from within code)
-- currently waits 5 mins between seed and harvest and will just harvest up un grown crops. change this in the code on the till function.
+- No menu to allow farm size to be changed (requires changing from within code)
+- Currently waits 5 mins between seed and harvest and will just harvest up un grown crops. change this in the code on the till function.
 
 Edit the code you download freely but please report bugs in the orginal code here if im not bored of this mod i will fix them. 
 Happy farming.
