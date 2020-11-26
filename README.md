@@ -33,6 +33,11 @@ TURTLE:
   - This will download farmADV and inv
   - To start farming run farmADV
   
+Known issues:
+- No way to exit the program once started
+- no menu to allow farm size to be changed (requires changing from within code)
+- currently waits 5 mins between seed and harvest and will just harvest up un grown crops. change this in the code on the till function.
+
 Edit the code you download freely but please report bugs in the orginal code here if im not bored of this mod i will fix them. 
 Happy farming.
   
