@@ -3,7 +3,7 @@ A farming program for computer craft tweaked in Feed the Beast Revelations.
 
 FarmADV consists of two programs the main farming program and a inventory management program that is loaded as an API.
 
-The farming program is designed and tested in Feed the Beast Revelations and will manage a 16x32 blobk wheat farm. 
+The farming program is designed and tested in Feed the Beast Revelations and will manage a 16x32 block wheat farm. 
 
 This modpack has a quality of life mod that makes the hoe both in had and on the farming bot break more than one bloock at a time thus making the farming turtle unusable.
 The work around for this is use a regual turtle equipped with diamond sword. At the moment the code is writen that this needs to be on the left.
