@@ -5,8 +5,8 @@ FarmADV consists of two programs the main farming program and a inventory manage
 
 The farming program is designed and tested in Feed the Beast Revelations and will manage a 16x32 block wheat farm. 
 
-This modpack has a quality of life mod that makes the hoe both in had and on the farming bot break more than one bloock at a time thus making the farming turtle unusable.
-The work around for this is use a regual turtle equipped with diamond sword. At the moment the code is writen that this needs to be on the left.
+This modpack has a quality of life mod that makes the hoe both in hand and on the farming bot break more than one bloock at a time thus making the farming turtle unusable.
+The work around for this is use a regular turtle equipped with diamond sword. At the moment the code is writen that this needs to be on the left.
 
 The code at present is also writen to have a modem on the right of the turtle and sends strings over this modem to a display program that runs on another computer. this function can be removed by deleting the print() funtion within farmADV.
 
