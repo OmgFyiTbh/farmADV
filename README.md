@@ -22,8 +22,8 @@ FARM:
 TURTLE:
   - Normal turtle
   - Sword equipped on left.
-  - Sodem equipped on right.
-  - Place turtle and bottom left position of farm coordinates (0,0) facing up the long edge of farm (y axis) one block above the dirt so it goes: Turtle, air then dirt.
+  - Modem equipped on right.
+  - Place turtle a the bottom left position of farm coordinates (0,0) facing up the long edge of farm (y axis) one block above the dirt so it goes: Turtle, air then dirt.
   - Chest for wheat deposit behind turtle.
   - Chest for coal refueling on left of turtle, fill this with a few stacks of coal and top it up periodically.
  
