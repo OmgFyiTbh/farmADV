@@ -49,3 +49,4 @@ Known issues:
 Edit the code you download freely but please report bugs in the orginal code here if im not bored of this mod i will fix them. 
 Happy farming.
   
+Credit for the inv library goes to Starkus, I used most of it made some changes and added some bit but source code is here: https://github.com/Starkus/quarry
